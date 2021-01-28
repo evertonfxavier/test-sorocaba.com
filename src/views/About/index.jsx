@@ -47,7 +47,7 @@ const About = () => {
                   poderosa espada falante. O grupo Possessores quer tanto ela
                   quanto o Transistor e está perseguindo implacavelmente a sua
                   procura.
-                  {/* dfsfdfsdfsdfsdf */}
+                  
                 </DescriptionWrapper>
               </ContentText>
             </ContentWrapper>
