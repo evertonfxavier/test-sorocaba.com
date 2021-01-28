@@ -9,6 +9,15 @@ const AboutWrapper = styled.section`
   padding: 50px 0;
 `;
 
+// const AboutWrapper = styled.section`
+//   background-color: ${({ theme }) => theme.colors.secondary.dark};
+//   width: 100%;
+//   height: 100vh;
+//   display: flex;
+//   align-items: center;
+//   padding: 50px 0;
+// `;
+
 const ContainerWrapper = styled.div`
   max-width: 1255px;
   width: 80%;
