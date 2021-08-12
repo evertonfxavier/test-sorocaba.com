@@ -22,6 +22,7 @@ This project was developed using the following technologies:
 - [React](https://pt-br.reactjs.org/)
 - [Style-Components](https://styled-components.com/)
 - [React-hook-form](https://react-hook-form.com/)
+- [React-Slick](https://react-slick.neostack.com/)
 
 
 ## 🚀 Getting Started 
