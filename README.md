@@ -5,8 +5,8 @@ Teste feito para vaga de desenvolvedor front-end na empresa sorocaba.com, no dia
 ## Preview
 
 <h1 align="center">
-  <img alt="test-socorabacom" title="#test-socorabacom" src="screen.gif" />
-  <img alt="test-socorabacom-mobile" title="#test-socorabacom-mobile" src="https://i.ibb.co/NrcpzFZ/Group-8.png" />
+  <img alt="test-socorabacom" title="#test-socorabacom" src="./public/screen.gif" width="100%" />
+  <img alt="test-socorabacom-mobile" title="#test-socorabacom-mobile" src="https://i.ibb.co/NrcpzFZ/Group-8.png" width="100%" />
 </h1>
 
 ## 💻 Project
