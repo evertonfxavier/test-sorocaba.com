@@ -20,7 +20,7 @@ Este projeto foi realizado durante o processo seletivo para a vaga de desenvolve
 This project was developed using the following technologies:
  
 - [React](https://pt-br.reactjs.org/)
-- [Style-Components](https://styled-components.com/)
+- [Styled-Components](https://styled-components.com/)
 - [React-hook-form](https://react-hook-form.com/)
 - [React-Slick](https://react-slick.neostack.com/)
 
